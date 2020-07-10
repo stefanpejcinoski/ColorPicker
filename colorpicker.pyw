@@ -6,6 +6,7 @@ This is a temporary script file.
 """
 
 from pynput import keyboard, mouse
+from time import sleep
 import pyscreenshot as scp
 import pyperclip
 from colormap import rgb2hex
@@ -102,6 +103,7 @@ if __name__=='__main__':
                listener1.start()
                while not listener1.is_alive():
                    pass
+       sleep(0.1)
        
     listener.stop()
     
