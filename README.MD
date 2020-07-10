@@ -12,7 +12,7 @@ and it will result in erratic mouse movement/clicking and problems with keyboard
 # Guide
 
 ColorPicker only works on Windows and Mac because of the way it takes screenshots
-If not already installed, install Python and then the necessary packages.
+If not already installed, install Python (3.7 or 3.8) and then the necessary packages.
 
 Open up a command prompt and run:
 ```console
