@@ -9,6 +9,8 @@ will pick out the color that the mouse cursor is pointing to and save it to your
 This is a test version, there are no checks for user error, if you run multiple instances of the script it will create multiple event handlers for mouse/keyboard input
 and it will result in erratic mouse movement/clicking and problems with keyboard input
 
+There are probably many not yet discovered bugs in long term use of the software
+
 # Guide
 
 ColorPicker only works on Windows and Mac because of the way it takes screenshots
